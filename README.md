@@ -16,7 +16,7 @@
   2. Open cmd
   3. python BankSystsem.py
 
-## ATM Project의 프로세스
+## ATM Project Process
 1. Insert CARD
 2. PIN Number Check
 3. Select Account
